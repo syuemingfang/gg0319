@@ -1,0 +1,22 @@
+/*
+	Cascading Style Sheet
+	Style
+*/
+body {
+	font-family: Tw Cen MT, 微軟正黑體;
+	background-image: url(../images/bg.png);
+	background-position: left top;
+	background-repeat: repeat-x;
+}
+h2 {
+	font-family: Georgia;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 28px;
+	color: #ca261f;
+}
+hr {
+	border: 0px;
+	background-color: #ccc;
+	height: 1px;
+}
