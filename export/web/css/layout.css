@@ -177,9 +177,13 @@
 .wrap_marquee ul {
 	width: 450px;
 }
+.wrap_marquee li {
+	height: 150px;
+}
 .wrap_marquee li img {
 	margin-left: 5px;
 	width: 150px;
+	height: auto;
 	border: 2px #fdd69d solid;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -201,9 +205,13 @@
 .wrap_marquee ul {
 	width: 600px;
 }
+.wrap_marquee li {
+	height: 190px;
+}
 .wrap_marquee li img {
 	margin-left: 5px;
 	width: 190px;
+	height: auto;
 	border: 2px #fdd69d solid;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
