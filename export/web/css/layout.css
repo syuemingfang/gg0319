@@ -5,6 +5,8 @@
 .full {
 	min-width: 1100px;
 	width: 100%;
+	padding: 0 10px;
+	box-sizing:border-box;
 }
 .logo {
 	width: 517px;
